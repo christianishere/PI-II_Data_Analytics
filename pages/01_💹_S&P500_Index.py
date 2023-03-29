@@ -195,7 +195,7 @@ st.plotly_chart(fig, use_container_width=True)
 
 
 
-st.image('images\Pyramid_2020_900_6625.jpg', width=650)
+st.image('images/Pyramid_2020_900_6625.jpg', width=650)
 
 
 # GRAFICO RENDIMIENTOS ANUALES DESDE 2000
