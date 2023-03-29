@@ -1,0 +1,50 @@
+Stock,Company Name,% of Portfolio,Shares Owned,Value,Change in Shares,Date
+AAPL,Apple Inc,38.90%,895.14M,$ 116.31B,0.04% (+333.86k),2022-12-31
+BAC,Bk Of America Corp,11.19%,1.01B,$ 33.45B,0%,2022-12-31
+CVX,Chevron Corp New,9.78%,162.98M,$ 29.25B,-1.44% (-2.38M),2022-12-31
+KO,Coca Cola Co,8.51%,400M,$ 25.44B,0%,2022-12-31
+AXP,American Express Co,7.49%,151.61M,$ 22.40B,0%,2022-12-31
+KHC,Kraft Heinz Co,4.43%,325.63M,$ 13.26B,0%,2022-12-31
+OXY,Occidental Pete Corp,4.17%,208.04M,$ 12.48B,7.04% (+13.69M),2023-03-15
+MCO,Moodys Corp,2.30%,24.67M,$ 6.87B,0%,2022-12-31
+ATVI,Activision Blizzard Inc,1.35%,52.72M,$ 4.04B,-12.35% (-7.42M),2022-12-31
+HPQ,Hp Inc,0.94%,104.48M,$ 2.81B,0%,2022-12-31
+DVA,Davita Inc,0.90%,36.10M,$ 2.70B,0%,2022-12-31
+VRSN,Verisign Inc,0.88%,12.82M,$ 2.63B,0%,2022-12-31
+C,Citigroup Inc,0.83%,55.16M,$ 2.49B,0%,2022-12-31
+KR,Kroger Co,0.75%,50M,$ 2.23B,-0.53% (-268.82k),2022-12-31
+V,Visa Inc,0.58%,8.30M,$ 1.72B,0%,2022-12-31
+LSXMK,Liberty Media Corp Del,0.57%,43.21M,$ 1.69B,0%,2022-12-31
+GM,General Mtrs Co,0.56%,50M,$ 1.68B,0%,2022-12-31
+PARA,Paramount Global,0.53%,93.64M,$ 1.58B,2.65% (+2.42M),2022-12-31
+MA,Mastercard Incorporated,0.46%,3.99M,$ 1.39B,0%,2022-12-31
+AON,Aon Plc,0.44%,4.40M,$ 1.32B,0%,2022-12-31
+CHTR,Charter Communications Inc N,0.43%,3.83M,$ 1.30B,0%,2022-12-31
+BK,Bank New York Mellon Corp,0.38%,25.07M,$ 1.14B,-59.7% (-37.14M),2022-12-31
+MCK,Mckesson Corp,0.36%,2.86M,$ 1.07B,-10.72% (-342.83k),2022-12-31
+CE,Celanese Corp Del,0.33%,9.71M,$ 992.77M,0%,2022-12-31
+AMZN,Amazon Com Inc,0.30%,10.67M,$ 895.94M,0%,2022-12-31
+SNOW,Snowflake Inc,0.29%,6.13M,$ 879.24M,0%,2022-12-31
+LSXMA,Liberty Media Corp Del,0.27%,20.21M,$ 794.36M,0%,2022-12-31
+GL,Globe Life Inc,0.26%,6.35M,$ 765.94M,0%,2022-12-31
+TMUS,T-mobile Us Inc,0.25%,5.24M,$ 733.88M,0%,2022-12-31
+ALLY,Ally Finl Inc,0.24%,29.80M,$ 728.61M,-0.67% (-200k),2022-12-31
+RH,Rh,0.21%,2.36M,$ 630.57M,0%,2022-12-31
+TSM,Taiwan Semiconductor Mfg Ltd,0.21%,8.29M,$ 617.73M,-86.19% (-51.77M),2022-12-31
+MKL,Markel Corp,0.21%,467.61k,$ 616.06M,0%,2022-12-31
+FWONK,Liberty Media Corp Del,0.15%,7.72M,$ 461.65M,0%,2022-12-31
+NU,Nu Hldgs Ltd,0.15%,107.12M,$ 435.97M,0%,2022-12-31
+LPX,Louisiana Pac Corp,0.14%,7.04M,$ 417.06M,21.55% (+1.25M),2022-12-31
+FND,Floor & Decor Hldgs Inc,0.11%,4.78M,$ 332.83M,0%,2022-12-31
+USB,Us Bancorp Del,0.10%,6.67M,$ 290.92M,-91.42% (-71.12M),2022-12-31
+STNE,Stoneco Ltd,0.03%,10.70M,$ 100.97M,0%,2022-12-31
+MMC,Marsh & Mclennan Cos Inc,0.02%,404.91k,$ 67M,0%,2022-12-31
+JNJ,Johnson & Johnson,0.02%,327.10k,$ 57.78M,0%,2022-12-31
+PG,Procter And Gamble Co,0.02%,315.40k,$ 47.80M,0%,2022-12-31
+MDLZ,Mondelez Intl Inc,0.01%,578k,$ 38.52M,0%,2022-12-31
+LILA,Liberty Latin America Ltd,<.01%,2.63M,$ 19.81M,0%,2022-12-31
+VOO,Vanguard Index Fds,<.01%,43k,$ 15.11M,0%,2022-12-31
+SPY,Spdr S&p 500 Etf Tr,<.01%,39.40k,$ 15.07M,0%,2022-12-31
+JEF,Jefferies Finl Group Inc,<.01%,433.56k,$ 14.86M,0%,2022-12-31
+UPS,United Parcel Service Inc,<.01%,59.40k,$ 10.33M,0%,2022-12-31
+LILAK,Liberty Latin America Ltd,<.01%,1.28M,$ 9.76M,0%,2022-12-31
