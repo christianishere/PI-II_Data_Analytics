@@ -4,7 +4,7 @@
  <b>PROYECTO: MERCADO BURSÁTIL</b>
 </h1>
  
-![Mercado bursátil](images\clases-mercado-valores.jpg)
+![Mercado bursátil](images/clases-mercado-valores.jpg)
 
 
 
@@ -30,14 +30,14 @@ Se propone la situación donde una empresa busca invertir en el mercado bursáti
 
 
 
-![](images\St_01.jpg)
-![](images\St_02.jpg)
-![](images\St_03.jpg)
-![](images\St_04.jpg)
-![](images\St_05.jpg)
-![](images\St_06.jpg)
-![](images\St_06_1.jpg)
-![](images\St_07.jpg)
+![](images/St_01.jpg)
+![](images/St_02.jpg)
+![](images/St_03.jpg)
+![](images/St_04.jpg)
+![](images/St_05.jpg)
+![](images/St_06.jpg)
+![](images/St_06_1.jpg)
+![](images/St_07.jpg)
 
 
 
