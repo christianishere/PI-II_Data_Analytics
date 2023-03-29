@@ -37,7 +37,7 @@ Se propone la situación donde una empresa busca invertir en el mercado bursáti
 
 <br>
 
-<span style="font-size: 2.5em; color: #ff0000">**[🔗 Proyecto en Streamlit.app](https://christianishere-pi-ii-data-analytics-app-dosafa.streamlit.app/)**</span>
+## **[🔗 Proyecto en Streamlit.app](https://christianishere-pi-ii-data-analytics-app-dosafa.streamlit.app/)**
 
 
 
