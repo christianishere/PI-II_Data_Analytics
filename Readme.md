@@ -7,10 +7,13 @@
 ![Mercado bursátil](images/clases-mercado-valores.jpg)
 
 
+<br>
 
 ## **INTRODUCCIÓN**
 
 Se propone la situación donde una empresa busca invertir en el mercado bursátil y solicita un análisi en detalle. Considerando que la empresa no conoce esta área financiera, solicita una explicación de qué ha sucedido en este mercado en los últimos años (considerando impactos positivos y negativos a partir del año 2000), recomendaciones de inversión (ya sea enfocada en empresas o rubros de éstas) y cualquier otra información complementaria que nos resulte significativa.
+
+<br>
 
 ## **DESARROLLO**
 
@@ -28,6 +31,18 @@ Se propone la situación donde una empresa busca invertir en el mercado bursáti
 
 🔸 Finalmente trabajaremos con **KPI'S** que nos brindarán información final sobre los papeles de acciones que serán recomendados. 
 
+<br>
+
+## **URL PÚBLICA DE LA APLICACIÓN EN STREAMLIT**
+
+<br>
+
+<span style="font-size: 1.5em; color: #ff0000">**[🔗 Proyecto en Streamlit.app](https://christianishere-pi-ii-data-analytics-app-dosafa.streamlit.app/)**</span>
+
+
+
+<br>
+<br>
 
 
 ![](images/St_01.jpg)
@@ -46,20 +61,23 @@ Se propone la situación donde una empresa busca invertir en el mercado bursáti
 
 ## **Arbol del proyecto:**
  
-│
-├─── **data:** almacén de archivos .csv (datasets).  
+│                                                                                                                                 
+├─── **data:** almacén de archivos .csv (datasets).                                                                        
 │       ├───berkshire_porfolio.csv   
 │       └───sp500_data.csv                          
 │       └───sp500_index.csv                          
-│───**images:** Almacén de imágenes.    
-├───**pages** páginas de la presentación en Streamlit.   
+│───**images:** almacén de imágenes.    
+├───**pages:** páginas de la aplicación en Streamlit.   
 │       ├───01_💹_S&P500_Index.py   
 │       └───02_📊_Analysis_&_Selection.py                  
-│       └───03_🔳_Technical_Chart_(tradingview).py        
-└───**app.py:** Archivo principal de Streamlit       
-└───**EDA_principal.ipynb:** Análisis exploratorio         
+│       └───03_🔳_Technical_Chart_(tradingview).py                                                                                 
+└───.gitignore: archivo del sistema                                                                                 
+└───**app.py:** archivo principal de Streamlit       
+└───**EDA_principal.ipynb:** análisis exploratorio         
+└───geckodriver.log: archivo del sistema                                                                                 
 └───**Readme.md:** archivo de presentación del prouyecto  
-└───**utility_hedgefollow.ipynb:** Utilidad para Web Scrapping 
+└───requirements: archivo del sistema                                                                                 
+└───**utility_hedgefollow.ipynb:** utilidad para Web Scrapping 
    
 
 
