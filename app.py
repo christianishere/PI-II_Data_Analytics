@@ -9,7 +9,7 @@ import streamlit.components.v1 as components
 st.set_page_config(layout="wide")
 
 
-st.image(r'images\clases-mercado-valores.jpg', use_column_width=True)
+st.image(r'images/clases-mercado-valores.jpg', use_column_width=True)
 
 
 st.markdown('***')
