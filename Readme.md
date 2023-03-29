@@ -63,20 +63,20 @@ Se propone la situación donde una empresa busca invertir en el mercado bursáti
  
 │                                                                                                                                 
 ├─── **data:** almacén de archivos .csv (datasets).                                                                        
-│       ├───berkshire_porfolio.csv   
-│       └───sp500_data.csv                          
-│       └───sp500_index.csv                          
-│───**images:** almacén de imágenes.    
+│             ├───berkshire_porfolio.csv   
+│             └───sp500_data.csv                          
+│             └───sp500_index.csv                          
+├───**images:** almacén de imágenes.                                                                                              
 ├───**pages:** páginas de la aplicación en Streamlit.   
-│       ├───01_💹_S&P500_Index.py   
-│       └───02_📊_Analysis_&_Selection.py                  
-│       └───03_🔳_Technical_Chart_(tradingview).py                                                                                 
-└───.gitignore: archivo del sistema                                                                                 
-└───**app.py:** archivo principal de Streamlit       
-└───**EDA_principal.ipynb:** análisis exploratorio         
-└───geckodriver.log: archivo del sistema                                                                                 
-└───**Readme.md:** archivo de presentación del prouyecto  
-└───requirements: archivo del sistema                                                                                 
+│             ├───01_💹_S&P500_Index.py   
+│             └───02_📊_Analysis_&_Selection.py                  
+│             └───03_🔳_Technical_Chart_(tradingview).py                                                                           
+├───.gitignore: archivo del sistema                                                                                 
+├───**app.py:** archivo principal de Streamlit       
+├───**EDA_principal.ipynb:** análisis exploratorio         
+├───geckodriver.log: archivo del sistema                                                                                 
+├───**Readme.md:** archivo de presentación del prouyecto  
+├───requirements: archivo del sistema                                                                                 
 └───**utility_hedgefollow.ipynb:** utilidad para Web Scrapping 
    
 
