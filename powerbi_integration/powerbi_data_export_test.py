@@ -259,6 +259,19 @@ def process_berkshire_portfolio_data(
         log("Check if the file exists and is accessible. Path: " + input_path)
         return None
 
+    if not prompt_user("Data read complete. Continue to validation step?"):
+        log("User chose to stop at data reading step.")
+        return None
+
+    # Step 2: Validate input data
+    try:
+        if not validate_input_data(df, "Berkshire Hathaway Portfolio"):
+            log("Validation issues found. Results may be incomplete or inaccurate.")
+        display_dataframe(df, "Berkshire Hathaway Portfolio after Validation")
+    except Exception as e:
+        log(f"Error during validation: {str(e)}")
+        return None
+
     if not prompt_user("Data read complete. Continue to save the data?"):
         log("User chose to stop at data reading step.")
         return None
